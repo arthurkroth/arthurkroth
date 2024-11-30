@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arthur Kroth</h1>
 <h3 align="center">As a cybersecurity and frontend developer from Brazil, I am now based in Ireland, eager to contribute to the thriving tech industry here.</h3>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/akroth.png" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/akroth.png" alt="TryHackMe" />
 
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/jTNG3RF6EwbkpD4LZx.webp">
 
