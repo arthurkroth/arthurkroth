@@ -5,15 +5,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/jTNG3RF6EwbkpD4LZx.webp">
 
-- 🔭 I’m currently working as **Desktop Support Enginneer/System Administration**
+- 🔭 I’m currently working as **System Administrator**
 
-- 🌱 I’m currently learning **Vanilla Java**
+- 🌱 I’m currently learning **JavaScript and Ruby(Rails)**
 
 - 👯 I’m looking to collaborate on **CyberSec and WebDevelopment projects**
-
-- 🤝 I’m looking for help with **JavaScript frameworks**
-
-- 💬 Ask me about **HTML5, CSS3, JS**
 
 - 📫 How to reach me: *Don't*
 
